@@ -50,10 +50,11 @@ def appendCSV(apidata,file,ids_list=[],cities_list=[]):
 # access token of twitter api (add your account key and token)
 # add your access token and account keys
 
-consumer_key =
-consumer_secret =
-access_token =
-access_token_secret = 
+
+consumer_key = ""
+consumer_secret = ""
+access_token = ""
+access_token_secret = ""
 
 
 # Creating the authentication object
@@ -72,7 +73,7 @@ language = "fr"
 #language = "jp"
 
 # localisation
-loc = "33.339922,10.495868,400km" # Center: Medenine, radius: 400km
+loc = "34.7615155,10.6630579,12z,400km" # Center: Sfax, radius: 400km
 #loc = "35.6586111111,139.745555556,600km" # Center: Tokyo, radius: 600km
 
 # Calling the user_timeline function with our parameters
