@@ -4,6 +4,7 @@
 # This code uses twitter api to retrieve water-related incidents in french and arabic.
 # Related tweets are stored in csv file after (i) removing the redundant tweets, (ii) extracting location from tweet texts.
 ###
+### Major modification history
 
 import tweepy
 import csv
@@ -12,18 +13,25 @@ from data import cities, ids
 from txtprocessing import readURL, splitTw, matchWord
 
 
-### appendCSV: (i) extract tweet that contains some keywords and (ii) append them to a data file twData.csv.
+### appendCSV: append tweets to a data file twData.csv.
+# Parameters:
+# apidata: raw twitter data
+# file: data file to collect the twitter data
+# Output:
+# nbr: nbr of added tweets
 # Features: Timestamp,TwDate,TwLoc,TwUserName,TwUserID,TwID,TwContent,ContentLoc,urls
 # Methods: the function checks for redundancy and do some pre-processing to fill in columns ContentLoc and urls
 def appendCSV(apidata,file,ids_list=[],cities_list=[]):
     nbr = 0 # number of tweet collected
     unkn = 0 # number of unknown location
     for tweet in apidata:
+        # check whether the tweet has not been stored already
         if not(tweet.id in ids_list):
             sentence = tweet.full_text
                 #ss = sentence.replace('.','').split(' ')
-            ss = splitTw(sentence)
+            ss = splitTw(sentence) # see txtprocessing.py
             location = []
+            # identify the location by extracting name of city from the tweet text
             for city in cities_list:
                 if (city in ss) or (matchWord(city,sentence)):
                     location.append(city)
@@ -31,11 +39,12 @@ def appendCSV(apidata,file,ids_list=[],cities_list=[]):
         
             if len(location) == 0:
                 unkn = unkn + 1
-                
-            nbr = nbr + 1
+            
             urls = readURL(tweet.full_text)
             file.writerow([datetime.datetime.now(),tweet.created_at,tweet.user.location,tweet.user.screen_name,
                            tweet.user.id,tweet.id,tweet.full_text,','.join(location),urls])
+            nbr = nbr + 1
+
     return nbr, unkn
 
 # access token of twitter api (add your account key and token)
@@ -53,9 +62,9 @@ auth.set_access_token(access_token, access_token_secret)
 # Creating the API object while passing in auth information
 api = tweepy.API(auth)
 
-#### Search in for keywords in french
-#query = "eau potable"
-query = "eau"
+#### Search for keywords in french
+query = "eau potable"
+#query = "eau"
 
 # Language code (follows ISO 639-1 standards)
 language = "fr"
