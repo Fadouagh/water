@@ -9,7 +9,7 @@
 import tweepy
 import csv
 import datetime
-from data import cities, ids
+from data import cities, ids, ids_path
 from txtprocessing import readURL, splitTw, matchWord
 
 
@@ -49,6 +49,7 @@ def appendCSV(apidata,file,ids_list=[],cities_list=[]):
 
 # access token of twitter api (add your account key and token)
 # add your access token and account keys
+
 consumer_key =
 consumer_secret =
 access_token =
@@ -80,7 +81,7 @@ results = api.search(q=query, lang=language, geocode=loc, count=1000,tweet_mode=
 #results = api.search(lang=language, geocode=loc, count=1000, tweet_mode='extended')
 
 # Open/Create a file to append data
-file = open('/Users/basho/fadouaproject/SafeWater/files/twData.csv', 'a')
+file = open(ids_path, 'a')
 #file = open('/Users/basho/fadouaproject/SafeWater/files/test.csv', 'a')
 #Use csv Writer
 writer = csv.writer(file)

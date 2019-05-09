@@ -9,9 +9,13 @@
 import pandas as pd
 import numpy as np
 import os
+from os import path
+
+# Build paths inside the project like this: os.path.join(BASE_DIR, ...)
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 
-cities_path = os.path.join("/Users/basho/fadouaproject/SafeWater/files", "Tunisie.csv")
+cities_path = os.path.join(BASE_DIR, "water/files", "Tunisie.csv")
 data = pd.read_csv(cities_path, index_col=False)
 
 
@@ -21,7 +25,7 @@ cities = data.Municipality.values
 
 
 
-ids_path = os.path.join("/Users/basho/fadouaproject/SafeWater/files", "twData.csv")
+ids_path = os.path.join(BASE_DIR, "water/files", "twData.csv")
 ids_data = pd.read_csv(ids_path, header=0)
 
 #data_path = os.path.join("/Users/basho/fadouaproject/SafeWater", "coupurestest.csv")
