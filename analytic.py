@@ -53,7 +53,7 @@ print("The length of the collected tweets is ",len(all_content))
 
 # 4) tokenize the tweets
 tokens = all_content.split()
-text = nltk.Text(tokens)
+text = nltk.Text(tokens) # not working properly: example "l'eau,c'est"
 
 
 # --> Searching the text.
@@ -75,33 +75,51 @@ text.common_contexts(["approvisionnement","eau"])
 l = len(text)
 print("The length of the text in term of tokens: ",l)
 # The size of the vocabulary
-s = len(sorted(set(text)))
+vocab = sorted(set(text))
+s = len(vocab)
 print("The size of the vocabulary used in the text: ",(s/l)*100)
+# simple frequency code
+freq = {}
+for v in vocab:
+    if not (v in nltk.corpus.stopwords.words('french')) and not (v in string.punctuation):
+        count = 0
+        for e in text:
+            if v == e:
+                count = count + 1
+        freq[v] = count
+#print("Frequency of vocabulary: ", freq)
+freq_eau = freq["eau"] + freq["d'eau"] + freq["eaux"] + freq["l'eau."]
+print("Frequency of word eau: ", freq_eau/l*100)
 
-# frequent collocations in the text
-text.collocations()
-
-# frequency analysis for words of interest
+# frequency distribution for words of interest
 fdist = text.vocab()
+#print(fdist)
 print("Frequency analysis for 'eau': ", fdist["eau"])
 print("Frequency analysis for 'coupure': ", fdist["coupure"])
 print("Frequency analysis for 'perturbation': ", fdist["perturbation"])
 print("Frequency analysis for 'manque': ", fdist["manque"])
 
-# number of words
+# most common words
 print("Number of words: ",len(tokens))
 print("Number of unique words: ", len(fdist.keys()))
 print("The 10 most common words are ",fdist.most_common(10)) # stopwords included!
-common = [w for w in fdist.most_common(10)
+common = [w for w in fdist.most_common(50)
           if not (w[0] in nltk.corpus.stopwords.words('french')) and not (w[0] in string.punctuation)]
-print("The 10 most common words (stopwords and punctuation are excluded) are ", common) # Warning: "les" is a non-stopword in nltk
+print("The 50 most common words (stopwords and punctuation are excluded) are ", common) # Warning: "les" is a non-stopword in nltk
+# cumulative frequency plot for 50 most frequent words
+#fdist.plot(50, cumulative = True)
+# frequency distribution for 50 most frequent words
+#fdist.plot(50)
+#print(fdist.hapaxes())
 
 # Common words that are not stopwords
 print("Common words that are not stopwords: ")
 non_stopwords = [w for w in list(fdist.keys())[:50] if w not in nltk.corpus.stopwords.words('french')]
 print(non_stopwords)
 
-
+# frequent collocations in the text
+# we want to find the word pairs that occur more often than we would expect based on the frequency of the individual word.
+text.collocations() # output include <l'eau potable>, <potable dans>, <litres d'eau>
 
 ##### commented out on May 09
 #

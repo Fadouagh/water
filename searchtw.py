@@ -51,10 +51,10 @@ def appendCSV(apidata,file,ids_list=[],cities_list=[]):
 # add your access token and account keys
 
 
-consumer_key = ""
-consumer_secret = ""
-access_token = ""
-access_token_secret = ""
+#consumer_key = ""
+#consumer_secret = ""
+#access_token = ""
+#access_token_secret = ""
 
 
 # Creating the authentication object
