@@ -50,7 +50,6 @@ def appendCSV(apidata,file,ids_list=[],cities_list=[]):
 # access token of twitter api (add your account key and token)
 # add your access token and account keys
 
-
 #consumer_key = ""
 #consumer_secret = ""
 #access_token = ""
@@ -65,15 +64,16 @@ auth.set_access_token(access_token, access_token_secret)
 api = tweepy.API(auth)
 
 #### Search for keywords in french
+#query = "eau potable"
 query = "eau potable"
-#query = "eau"
 
 # Language code (follows ISO 639-1 standards)
 language = "fr"
 #language = "jp"
 
 # localisation
-loc = "34.7615155,10.6630579,12z,400km" # Center: Sfax, radius: 400km
+#loc = "34.7615155,10.6630579,12z,400km" # Center: Sfax, radius: 400km
+loc = "34.7615155,10.6630579,400km" # Center: Sfax, radius: 400km
 #loc = "35.6586111111,139.745555556,600km" # Center: Tokyo, radius: 600km
 
 # Calling the user_timeline function with our parameters
@@ -96,7 +96,7 @@ print("The number of non-identified locations ",unkn)
 
 #### Search in for keywords in arabic
 # The search term to find
-query = "ماء الشرب"
+query = "الماء الصالح للشراب"
 
 # Language code (follows ISO 639-1 standards)
 language = "ar"

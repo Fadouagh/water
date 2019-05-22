@@ -43,6 +43,7 @@ for i in tweets:
 # 1) extract tweet text.
 # original_text = tw_data.TwContent.tolist()
 original_text = tw_data.TwContent.values
+print("Number of tweets is ", len(original_text))
 
 # 2) normalized text is obtained by (i) removing codes for white space, (ii) romoving urls, and (iii) changing to lower case
 normalized_text = [re.sub(r'(https?:\/\/)(\s)?(www\.)?(\s?)(\w+\.)*([\w\-\s]+\/)*([\w-]+)\/?', '', i.lower().replace(u'\xa0', u' ')) for i in original_text]
@@ -54,7 +55,6 @@ print("The length of the collected tweets is ",len(all_content))
 # 4) tokenize the tweets
 tokens = all_content.split()
 text = nltk.Text(tokens) # not working properly: example "l'eau,c'est"
-
 
 # --> Searching the text.
 # A concordance view shows every occurrence of a given word, together with some context
@@ -77,22 +77,30 @@ print("The length of the text in term of tokens: ",l)
 # The size of the vocabulary
 vocab = sorted(set(text))
 s = len(vocab)
-print("The size of the vocabulary used in the text: ",(s/l)*100)
+print("The size of the vocabulary used in the text: ",s)
 # simple frequency code
-freq = {}
-for v in vocab:
-    if not (v in nltk.corpus.stopwords.words('french')) and not (v in string.punctuation):
-        count = 0
-        for e in text:
-            if v == e:
-                count = count + 1
-        freq[v] = count
+#freq = {}
+#for v in vocab:
+#    if not (v in nltk.corpus.stopwords.words('french')) and not (v in string.punctuation):
+#        count = 0
+#        for e in text:
+#            if v == e or e in v:
+#                count = count + 1
+#        freq[v] = count
 #print("Frequency of vocabulary: ", freq)
-freq_eau = freq["eau"] + freq["d'eau"] + freq["eaux"] + freq["l'eau."]
-print("Frequency of word eau: ", freq_eau/l*100)
+#freq_eau = freq["eau"] + freq["d'eau"] + freq["eaux"] + freq["l'eau."]
+#print("Frequency of word eau: ", freq_eau/l*100)
 
 # frequency distribution for words of interest
-fdist = text.vocab()
+text2 = [w for w in text
+         if not (w in nltk.corpus.stopwords.words('french')) and not (w in string.punctuation)]
+#fdist = text.vocab()
+fdist = nltk.FreqDist(text2)
+#fdist = frqtext.vocab()
+print(fdist["eau"])
+
+    #fdist = [ w for (w,nb) in text.vocab()
+# if not (w[0] in nltk.corpus.stopwords.words('french')) and not (w[0] in string.punctuation)]
 #print(fdist)
 print("Frequency analysis for 'eau': ", fdist["eau"])
 print("Frequency analysis for 'coupure': ", fdist["coupure"])
@@ -107,9 +115,9 @@ common = [w for w in fdist.most_common(50)
           if not (w[0] in nltk.corpus.stopwords.words('french')) and not (w[0] in string.punctuation)]
 print("The 50 most common words (stopwords and punctuation are excluded) are ", common) # Warning: "les" is a non-stopword in nltk
 # cumulative frequency plot for 50 most frequent words
-#fdist.plot(50, cumulative = True)
+fdist.plot(50, cumulative = True)
 # frequency distribution for 50 most frequent words
-#fdist.plot(50)
+fdist.plot(50)
 #print(fdist.hapaxes())
 
 # Common words that are not stopwords
