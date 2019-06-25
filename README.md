@@ -26,6 +26,11 @@ May 2019
 
 - Ayoub Hitana has joined the team
 
+June 2019
+
+- Ayoub --> collecting data from acredited organization (SONEDE, etc.)
+- Fadoua --> word embedding model 
+
 4) References
 
 Nltk library:
