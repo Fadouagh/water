@@ -31,8 +31,26 @@ June 2019
 - Ayoub --> collecting data from acredited organization (SONEDE, etc.)
 - Fadoua --> word embedding model 
 
+July 2019
+
+- Ayoub --> collecting data from acredited organization (SONEDE, etc.)
+- Fadoua -->  making water corpus / tweet classification (various ML algorithms and DL)
+
+August 2019
+
+- Fadoua --> experiments to improve classification
+
 4) References
 
+[1] Earthquake Shakes Twitter Users: Real-time Event Detection by Social Sensors, Sakaki et. al. In: the Proceedings of the 19th international conference on World wide web, pp. 851-860, 2010
+
+[2] Using word embeddings in Twitter election classification, Yang et. al. Neural Information Retrieval 21, pp. 183-207, 2018
+
+[3] Mining the Social Web, M. Russell and M. Klassen, O'Reily 2019
+
+[4] Gathering high quality information on landslides from Twitter by relevance ranking of users and tweets, A. Musaev and Q. Hou. In: IEEE 2nd International Conference on Collaboration and Internet Computing (CIC), pp. 276-284, 2016
+
+[5] Others
 Nltk library:
 
 https://www.nltk.org/book
@@ -43,9 +61,19 @@ https://docs.python.org/3/library/re.html
 
 Twitter api:
 
-Mining the Social Web, M. Russell and M. Klassen, O'Reily 2019
 https://developer.twitter.com/en/docs/api-reference-index.html
 
-Social sensing:
+Gensim
 
-Earthquake Shakes Twitter Users: Real-time Event Detection by Social Sensors, Sakaki et. al. In: the Proceedings of the 19th international conference on World wide web, pp. 851-860, 2010
+https://radimrehurek.com/gensim/
+
+FastText
+
+https://fasttext.cc/docs/en/support.html
+
+Keras
+
+http://keras.io
+
+
+

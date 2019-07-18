@@ -1,0 +1,655 @@
+Municipality,Gouvernerat,Population
+Tunis,Gouvernorat de Tunis,638845
+Sfax,Gouvernorat de Sfax,272801
+Sousse,Gouvernorat de Sousse,221530
+Kairouan,Gouvernorat de Kairouan,139070
+Bizerte,Gouvernorat de Bizerte,136917
+Gabès,Gouvernorat de Gabès,130984
+La Soukra,Gouvernorat de l'Ariana,129693
+Ariana,Gouvernorat de l'Ariana,114486
+Sidi Hassine,Gouvernorat de Tunis,109690
+El Mourouj,Gouvernorat de Ben Arous,104586
+Gafsa,Gouvernorat de Gafsa,95242
+Raoued,Gouvernorat de l'Ariana,94691
+Monastir,Gouvernorat de Monastir,93306
+La Marsa,Gouvernorat de Tunis,92987
+Ben Arous,Gouvernorat de Ben Arous,88322
+Kasserine,Gouvernorat de Kasserine,83534
+Douar Hicher,Gouvernorat de la Manouba,82532
+Djerba - Houmt Souk,Gouvernorat de Médenine,75904
+Le Kram,Gouvernorat de Tunis,74132
+Hammamet,Gouvernorat de Nabeul,73236
+Zarzis,Gouvernorat de Médenine,72611
+Le Bardo,Gouvernorat de Tunis,71961
+Médenine,Gouvernorat de Médenine,71406
+Nabeul,Gouvernorat de Nabeul,70437
+Tataouine,Gouvernorat de Tataouine,66924
+Ben Gardane,Gouvernorat de Médenine,66567
+Djerba - Midoun,Gouvernorat de Médenine,63528
+Béja,Gouvernorat de Béja,62303
+M'saken,Gouvernorat de Sousse,60165
+Radès,Gouvernorat de Ben Arous,59794
+Oued Ellil,Gouvernorat de la Manouba,57851
+Moknine,Gouvernorat de Monastir,57111
+Le Kef,Gouvernorat du Kef,54690
+Menzel Bourguiba,Gouvernorat de Bizerte,54536
+Kalâa Kebira,Gouvernorat de Sousse,53323
+Sakiet Ezzit,Gouvernorat de Sfax,53243
+Mahdia,Gouvernorat de Mahdia,51833
+Jemmal,Gouvernorat de Monastir,50275
+Ksar Hellal,Gouvernorat de Monastir,49376
+Sidi Bouzid,Gouvernorat de Sidi Bouzid,48284
+Kélibia,Gouvernorat de Nabeul,46856
+Sakiet Eddaïer,Gouvernorat de Sfax,45767
+La Goulette,Gouvernorat de Tunis,45711
+Jendouba,Gouvernorat de Jendouba,45431
+El Aïn,Gouvernorat de Sfax,43337
+Hammam Sousse,Gouvernorat de Sousse,42937
+Hammam Lif,Gouvernorat de Ben Arous,42518
+Dar Chaâbane,Gouvernorat de Nabeul,42140
+El Hamma,Gouvernorat de Gabès,41607
+Gremda,Gouvernorat de Sfax,40858
+Bou Mhel el-Bassatine,Gouvernorat de Ben Arous,40101
+Menzel Temime,Gouvernorat de Nabeul,39138
+Korba,Gouvernorat de Nabeul,38902
+Métlaoui,Gouvernorat de Gafsa,38129
+Soliman,Gouvernorat de Nabeul,37749
+Téboulba,Gouvernorat de Monastir,37485
+Tozeur,Gouvernorat de Tozeur,37365
+Ezzahra,Gouvernorat de Ben Arous,34962
+Kalâa Seghira,Gouvernorat de Sousse,34548
+Mateur,Gouvernorat de Bizerte,34010
+El Ksar,Gouvernorat de Gafsa,33729
+Thyna,Gouvernorat de Sfax,33419
+La Manouba,Gouvernorat de la Manouba,32029
+Hammam Chott,Gouvernorat de Ben Arous,31810
+Siliana,Gouvernorat de Siliana,31251
+Douz,Gouvernorat de Kébili,30245
+Mornag,Gouvernorat de Ben Arous,30058
+Fériana,Gouvernorat de Kasserine,29572
+Ksour Essef,Gouvernorat de Mahdia,28842
+Djedeida,Gouvernorat de la Manouba,28660
+Ras Jebel,Gouvernorat de Bizerte,28610
+Ghannouch,Gouvernorat de Gabès,28051
+Tebourba,Gouvernorat de la Manouba,27545
+Akouda,Gouvernorat de Sousse,27200
+Mégrine,Gouvernorat de Ben Arous,26964
+Den Den,Gouvernorat de la Manouba,26763
+Chihia,Gouvernorat de Sfax,26300
+Redeyef,Gouvernorat de Gafsa,25046
+Sbeïtla,Gouvernorat de Kasserine,24597
+Grombalia,Gouvernorat de Nabeul,24299
+Djerba - Ajim,Gouvernorat de Médenine,24294
+El Fahs,Gouvernorat de Zaghouan,23556
+Menzel Jemil,Gouvernorat de Bizerte,22238
+Chebba,Gouvernorat de Mahdia,22227
+Takelsa,Gouvernorat de Nabeul,22151
+Ouerdanine,Gouvernorat de Monastir,21814
+Nefta,Gouvernorat de Tozeur,21654
+Medjez el-Bab,Gouvernorat de Béja,21653
+Bou Salem,Gouvernorat de Jendouba,21638
+Béni Khiar,Gouvernorat de Nabeul,21626
+Moularès,Gouvernorat de Gafsa,21431
+El Jem,Gouvernorat de Mahdia,21234
+Tinja,Gouvernorat de Bizerte,21139
+Zaghouan,Gouvernorat de Zaghouan,20798
+Zaouiet Sousse,Gouvernorat de Sousse,20681
+Kébili,Gouvernorat de Kébili,20623
+Mornaguia,Gouvernorat de la Manouba,19834
+Tabarka,Gouvernorat de Jendouba,19770
+Ghardimaou,Gouvernorat de Jendouba,19495
+Menzel Abderrahmane,Gouvernorat de Bizerte,19078
+Sahline Moôtmar,Gouvernorat de Monastir,19013
+Souk Lahad,Gouvernorat de Kébili,18905
+Menzel Bouzelfa,Gouvernorat de Nabeul,18851
+El Alia,Gouvernorat de Bizerte,18359
+Thala,Gouvernorat de Kasserine,18230
+Kalâat el-Andalous,Gouvernorat de l'Ariana,18211
+Bekalta,Gouvernorat de Monastir,17850
+Tajerouine,Gouvernorat du Kef,17530
+Ezzouhour,Gouvernorat de Sousse,17348
+Carthage,Gouvernorat de Tunis,17010
+Zéramdine,Gouvernorat de Monastir,16806
+Bembla,Gouvernorat de Monastir,16078
+Mahrès,Gouvernorat de Sfax,15878
+Kerkennah,Gouvernorat de Sfax,15501
+Béni Khalled,Gouvernorat de Nabeul,15463
+Chenini Nahal,Gouvernorat de Gabès,14803
+Meknassy,Gouvernorat de Sidi Bouzid,14773
+Bennane-Bodheur,Gouvernorat de Monastir,14218
+El Guettar,Gouvernorat de Gafsa,14088
+Makthar,Gouvernorat de Siliana,13542
+Testour,Gouvernorat de Béja,13331
+Bou Arada,Gouvernorat de Siliana,13162
+Ksibet el-Médiouni,Gouvernorat de Monastir,13122
+Dahmani,Gouvernorat du Kef,12964
+Sayada,Gouvernorat de Monastir,12962
+Menzel Hayet,Gouvernorat de Monastir,12927
+Messaadine,Gouvernorat de Sousse,12916
+Mdhilla,Gouvernorat de Gafsa,12814
+Le Sers,Gouvernorat du Kef,12108
+Bou Argoub,Gouvernorat de Nabeul,11990
+Skhira,Gouvernorat de Sfax,11912
+Téboursouk,Gouvernorat de Béja,11865
+Zriba,Gouvernorat de Zaghouan,11819
+Menzel Ennour,Gouvernorat de Monastir,11772
+Mareth,Gouvernorat de Gabès,11678
+Ksibet Thrayet,Gouvernorat de Sousse,11623
+Agareb,Gouvernorat de Sfax,11513
+Regueb,Gouvernorat de Sidi Bouzid,11420
+Sidi Thabet,Gouvernorat de l'Ariana,11351
+Khniss,Gouvernorat de Monastir,11229
+Enfida,Gouvernorat de Sousse,10990
+Rejiche,Gouvernorat de Mahdia,10806
+Métouia,Gouvernorat de Gabès,10716
+Hajeb El Ayoun,Gouvernorat de Kairouan,10621
+Gaâfour,Gouvernorat de Siliana,10399
+Sidi Bou Ali,Gouvernorat de Sousse,10282
+Oudhref,Gouvernorat de Gabès,9932
+Bouficha,Gouvernorat de Sousse,9931
+Metline,Gouvernorat de Bizerte,9904
+Raf Raf,Gouvernorat de Bizerte,9850
+Jérissa,Gouvernorat du Kef,9807
+Aïn Draham,Gouvernorat de Jendouba,9659
+Ghomrassen,Gouvernorat de Tataouine,9568
+Sened,Gouvernorat de Gafsa,9533
+El Haouaria,Gouvernorat de Nabeul,9508
+Tazarka,Gouvernorat de Nabeul,9388
+Sidi Ali Ben Aoun,Gouvernorat de Sidi Bouzid,9297
+Hammam Ghezèze,Gouvernorat de Nabeul,9076
+Oueslatia,Gouvernorat de Kairouan,9006
+Beni Hassen,Gouvernorat de Monastir,8801
+Khalidia,Gouvernorat de Ben Arous,8470
+Menzel Kamel,Gouvernorat de Monastir,8432
+Haffouz,Gouvernorat de Kairouan,8429
+Sidi Ameur,Gouvernorat de Monastir,8404
+Bir Mcherga,Gouvernorat de Zaghouan,8329
+Kalaat Senan,Gouvernorat du Kef,8145
+Amiret Hajjaj,Gouvernorat de Monastir,8121
+El Maâmoura,Gouvernorat de Nabeul,8039
+Sbikha,Gouvernorat de Kairouan,8036
+Bir Lahmar,Gouvernorat de Tataouine,7955
+El Golâa,Gouvernorat de Kébili,7912
+Degache,Gouvernorat de Tozeur,7893
+Zaouiet Djedidi,Gouvernorat de Nabeul,7862
+El Krib,Gouvernorat de Siliana,7841
+Bou Hajla,Gouvernorat de Kairouan,7828
+El Maâgoula,Gouvernorat de Béja,7809
+Foussana,Gouvernorat de Kasserine,7703
+El Hencha,Gouvernorat de Sfax,7575
+Nadhour,Gouvernorat de Zaghouan,7567
+Nouvelle Matmata,Gouvernorat de Gabès,7526
+Sidi Alouane,Gouvernorat de Mahdia,7500
+Kerker,Gouvernorat de Mahdia,7467
+Hergla,Gouvernorat de Sousse,7419
+El Bradâa,Gouvernorat de Mahdia,7404
+Mezzouna,Gouvernorat de Sidi Bouzid,7390
+Nefza,Gouvernorat de Béja,7302
+Touza,Gouvernorat de Monastir,7236
+Jemna,Gouvernorat de Kébili,7194
+Jebiniana,Gouvernorat de Sfax,7190
+Menzel Bouzaiane,Gouvernorat de Sidi Bouzid,7113
+Somâa,Gouvernorat de Nabeul,7017
+Thélepte,Gouvernorat de Kasserine,6932
+Zaouiet Kontoch,Gouvernorat de Monastir,6713
+Melloulèche,Gouvernorat de Mahdia,6704
+Borj El Amri,Gouvernorat de la Manouba,6519
+Sbiba,Gouvernorat de Kasserine,6504
+Bir El Hafey,Gouvernorat de Sidi Bouzid,6475
+Majel Bel Abbès,Gouvernorat de Kasserine,6471
+El Batan,Gouvernorat de la Manouba,6453
+El Hamma du Jérid,Gouvernorat de Tozeur,6439
+Sakiet Sidi Youssef,Gouvernorat du Kef,6335
+Remada,Gouvernorat de Tataouine,6289
+Amiret Touazra,Gouvernorat de Monastir,6261
+Bouhjar,Gouvernorat de Monastir,6137
+Sidi Bou Saïd,Gouvernorat de Tunis,5911
+El Ksour,Gouvernorat du Kef,5852
+Jilma,Gouvernorat de Sidi Bouzid,5821
+Lamta,Gouvernorat de Monastir,5790
+Chorbane,Gouvernorat de Mahdia,5700
+Sejnane,Gouvernorat de Bizerte,5645
+Zarat,Gouvernorat de Gabès,5627
+Essouassi,Gouvernorat de Mahdia,5381
+Ghar El Melh,Gouvernorat de Bizerte,5345
+Djebel Oust,Gouvernorat de Zaghouan,5325
+Amiret El Fhoul,Gouvernorat de Monastir,5255
+Menzel Horr,Gouvernorat de Nabeul,5243
+Amdoun,Gouvernorat de Béja,5204
+Aousja,Gouvernorat de Bizerte,5126
+Ouled Chamekh,Gouvernorat de Mahdia,5120
+El Ghnada,Gouvernorat de Monastir,5100
+Azmour,Gouvernorat de Nabeul,5054
+Nasrallah,Gouvernorat de Kairouan,5012
+Bargou,Gouvernorat de Siliana,4916
+Bir Ali Ben Khalifa,Gouvernorat de Sfax,4905
+El Masdour,Gouvernorat de Monastir,4705
+Rouhia,Gouvernorat de Siliana,4675
+Dar Allouch,Gouvernorat de Nabeul,4558
+Sidi Bennour,Gouvernorat de Monastir,4520
+Cherahil,Gouvernorat de Monastir,4406
+Jedelienne,Gouvernorat de Kasserine,4352
+Bou Merdes,Gouvernorat de Mahdia,4338
+Dehiba,Gouvernorat de Tataouine,4295
+El Mida,Gouvernorat de Nabeul,4155
+Goubellat,Gouvernorat de Béja,4128
+Menzel Mehiri,Gouvernorat de Kairouan,3870
+Fernana,Gouvernorat de Jendouba,3831
+Kondar,Gouvernorat de Sousse,3804
+Menzel Fersi,Gouvernorat de Monastir,3603
+Korbous,Gouvernorat de Nabeul,3532
+Haïdra,Gouvernorat de Kasserine,3451
+Cebbala Ouled Asker,Gouvernorat de Sidi Bouzid,3361
+Nebeur,Gouvernorat du Kef,3299
+El Alâa,Gouvernorat de Kairouan,3276
+Sidi Bou Rouis,Gouvernorat de Siliana,3258
+Graïba,Gouvernorat de Sfax,3251
+Hebira,Gouvernorat de Mahdia,3248
+Sidi Makhlouf,Gouvernorat de Médenine,3070
+Beni Khedache,Gouvernorat de Médenine,2930
+Chebika,Gouvernorat de Kairouan,2921
+El Aroussa,Gouvernorat de Siliana,2905
+Sidi El Hani,Gouvernorat de Sousse,2706
+Kesra,Gouvernorat de Siliana,2602
+Kalâat Khasba,Gouvernorat du Kef,2558
+Ouchtata,Gouvernorat de Béja,na
+Slouguia,Gouvernorat de Béja,na
+Sidi Ismail,Gouvernorat de Béja,na
+Ouled Haffouz,Gouvernorat de Sidi Bouzid,2494
+Oued Meliz,Gouvernorat de Jendouba,2388
+Tamerza,Gouvernorat de Tozeur,2334
+Menzel Chaker,Gouvernorat de Sfax,2278
+Touiref,Gouvernorat du Kef,2178
+Matmata,Gouvernorat de Gabès,1847
+Menzel Salem,Gouvernorat du Kef,1824
+Aïn Djeloula,Gouvernorat de Kairouan,1757
+Echrarda,Gouvernorat de Kairouan,1705
+Beni M'Tir,Gouvernorat de Jendouba,784
+Aachech,Gouvernorat de Sfax,na
+Al Ahouaz-El Assouda,Gouvernorat de Sidi Bouzid,na
+Belkhir,Gouvernorat de Gafsa,na
+Bouchemma,Gouvernorat de Gabès,na
+El Amra,Gouvernorat de Sfax,na
+El Ayoun,Gouvernorat de Kasserine,na
+Ennasr,Gouvernorat de Sfax,na
+Ezzouhour,Gouvernorat de Kasserine,na
+Essaïda,Gouvernorat de Sidi Bouzid,na
+Faouar,Gouvernorat de Kébili,na
+Fouchana,Gouvernorat de Ben Arous,na
+Ghezala,Gouvernorat de Bizerte,na
+Hadjeb,Gouvernorat de Sfax,na
+Hassi El Ferid,Gouvernorat de Kasserine,na
+Hazeg Ellouza,Gouvernorat de Sfax,na
+Hazoua,Gouvernorat de Tozeur,na
+Hkaima,Gouvernorat de Mahdia,na
+Joumine,Gouvernorat de Bizerte,na
+Lela,Gouvernorat de Gafsa,na
+Menzel El Habib,Gouvernorat de Gabès,na
+Mohamedia,Gouvernorat de Ben Arous,na
+Mnihla,Gouvernorat de l'Ariana,na
+Nadhour Sidi Ali Ben Abed,Gouvernorat de Sfax,na
+Ouabed Khazanet,Gouvernorat de Sfax,na
+Rjim Maatoug,Gouvernorat de Kébili,na
+Saouaf,Gouvernorat de Zaghouan,na
+Sidi Aïch,Gouvernorat de Gafsa,na
+Sidi Zid,Gouvernorat de Mahdia,na
+Smâr,Gouvernorat de Tataouine,na
+Souk Jedid,Gouvernorat de Sidi Bouzid,na
+Teboulbou,Gouvernorat de Gabès,na
+Thibar,Gouvernorat de Béja,na
+Tlelsa,Gouvernorat de Mahdia,na
+Utique,Gouvernorat de Bizerte,na
+Zarzis Nord,Gouvernorat de Médenine,na
+Zelba,Gouvernorat de Mahdia,na
+Fondouk Jedid,Gouvernorat de Nabouel,na
+Ghedir el Golla,Gouvernorat de Tunis,na
+تونس,ولاية تونس,638845
+صفاقس,ولاية صفاقس,272801
+سوسة,ولاية سوسة,221530
+التضامن-المنيهلة,ولاية أريانة,142953
+القيروان,ولاية القيروان,139070
+بنزرت,ولاية بنزرت,136917
+قابس,ولاية قابس,130984
+سكرة,ولاية أريانة,129693
+أريانة,ولاية أريانة,114486
+سيدي حسين,ولاية تونس,109690
+المحمدية-فوشانة,ولاية بن عروس,106167
+المروج,ولاية بن عروس,104586
+قفصة,ولاية قفصة,95242
+رواد,ولاية أريانة,94961
+المنستير,ولاية المنستير,93306
+المرسى,ولاية تونس,92987
+بن عروس,ولاية بن عروس,88322
+القصرين,ولاية القصرين,83534
+دوار هيشر,ولاية منوبة,82531
+بن قردان,ولاية مدنين,79912
+حومة السوق,ولاية مدنين,75904
+الكرم,ولاية تونس,74132
+الحمامات,ولاية نابل,73236
+جرجيس,ولاية مدنين,72611
+باردو,ولاية تونس,71961
+مدنين,ولاية مدنين,71406
+نابل,ولاية نابل,70437
+تطاوين,ولاية تطاوين,66924
+ميدون,ولاية مدنين,63528
+باجة,ولاية باجة,62303
+مساكن,ولاية سوسة,60165
+رادس,ولاية بن عروس,59794
+واد الليل,ولاية منوبة,57851
+مكنين,ولاية المنستير,57111
+الكاف,ولاية الكاف,54690
+منزل بورقيبة,ولاية بنزرت,54536
+القلعة الكبرى,ولاية سوسة,53323
+ساقية الزيت,ولاية صفاقس,53243
+المهدية,ولاية المهدية,51833
+جمال,ولاية المنستير,50275
+قصر هلال,ولاية المنستير,49376
+سيدي بوزيد,ولاية سيدي بوزيد,48284
+قليبية,ولاية نابل,46856
+ساقية الدائر,ولاية صفاقس,45767
+حلق الوادي,ولاية تونس,45711
+جندوبة,ولاية جندوبة,45431
+العين,ولاية صفاقس,43337
+حمام سوسة,ولاية سوسة,42937
+حمام الأنف,ولاية بن عروس,42518
+دار شعبان الفهري,ولاية نابل,42140
+منوبة,ولاية منوبة,41670
+الحامة,ولاية قابس,41607
+قرمدة,ولاية صفاقس,40858
+بومهل البساتين,ولاية بن عروس,40101
+منزل تميم,ولاية نابل,39138
+قربة,ولاية نابل,38902
+المتلوي,ولاية قفصة,38129
+سليمان,ولاية نابل,37749
+طبلبة,ولاية المنستير,37485
+توزر,ولاية توزر,37365
+الزهراء,ولاية بن عروس,34962
+القلعة الصغرى,ولاية سوسة,34548
+ماطر,ولاية بنزرت,34010
+القصر,ولاية قفصة,33729
+طينة,ولاية صفاقس,33419
+حمام الشط,ولاية بن عروس,31810
+سليانة,ولاية سليانة,31251
+دوز,ولاية قبلي,30245
+مرناق,ولاية بن عروس,30058
+فريانة,ولاية القصرين,29572
+قصور الساف,ولاية المهدية,28842
+الجديدة,ولاية منوبة,28660
+رأس الجبل,ولاية بنزرت,28610
+غنوش,ولاية قابس,28051
+طبربة,ولاية منوبة,27545
+أكودة,ولاية سوسة,27200
+مقرين,ولاية بن عروس,26924
+الشيحية,ولاية صفاقس,26300
+الرديف,ولاية قفصة,25046
+سبيطلة,ولاية القصرين,24597
+قرمبالية,ولاية نابل,24299
+أجيم,ولاية مدنين,24294
+الفحص,ولاية زغوان,23556
+مجاز الباب,ولاية باجة,22287
+منزل جميل,ولاية بنزرت,22238
+الشابة,ولاية المهدية,22227
+تاكلسة,ولاية نابل,22151
+الوردانين,ولاية المنستير,21814
+نفطة,ولاية توزر,21654
+بوسالم,ولاية جندوبة,21638
+بني خيار,ولاية نابل,21626
+أم العرائس,ولاية قفصة,21431
+الجمّ,ولاية المهدية,21234
+تينجة,ولاية بنزرت,21139
+زغوان,ولاية زغوان,20798
+زاوية سوسة,ولاية سوسة,20681
+ڨبلي,ولاية قبلي,20623
+مرناقية,ولاية منوبة,19834
+طبرقة,ولاية جندوبة,19770
+غار الدماء,ولاية جندوبة,19495
+منزل عبد الرحمان,ولاية بنزرت,19078
+الساحلين,ولاية المنستير,19013
+سوق الأحد,ولاية قبلي,18905
+منزل بوزلفة,ولاية نابل,18551
+العالية,ولاية بنزرت,18359
+تالة,ولاية القصرين,18230
+قلعة الأندلس,ولاية أريانة,18211
+البقالطة,ولاية المنستير,17850
+تاجروين,ولاية الكاف,17530
+الزهور,ولاية سوسة,17348
+الدندان,ولاية منوبة,17122
+قرطاج,ولاية تونس,17010
+زرمدين,ولاية المنستير,16806
+بنبلة,ولاية المنستير,16078
+المحرس,ولاية صفاقس,15878
+قرقنة,ولاية صفاقس,15501
+بني خلاد,ولاية نابل,15463
+شننّي-النحال,ولاية قابس,14803
+المكناسي,ولاية سيدي بوزيد,14773
+بنان-بوضر,ولاية المنستير,14218
+القطار,ولاية قفصة,14088
+مكثر,ولاية سليانة,13542
+تستور,ولاية باجة,13331
+بوعرادة,ولاية سليانة,13162
+قصيبة المديوني,ولاية المنستير,13122
+الدهماني,ولاية الكاف,12964
+صيادة,ولاية المنستير,12962
+منزل الحياة,ولاية المنستير,12927
+المسعدين,ولاية سوسة,12916
+المظيلة,ولاية قفصة,12814
+سرس,ولاية الكاف,12108
+بوعرقوب,ولاية نابل,11990
+الصخيرة,ولاية صفاقس,11912
+تبرسق,ولاية باجة,11865
+الزريبة,ولاية زغوان,11819
+منزل النور,ولاية المنستير,11772
+مارث,ولاية قابس,11678
+قصيبة الثريات,ولاية سوسة,11623
+عقارب,ولاية صفاقس,11513
+الرقاب,ولاية سيدي بوزيد,11420
+سيدي ثابت,ولاية أريانة,11351
+خنيس,ولاية المنستير,11229
+النفيضة,ولاية سوسة,10990
+رجيش,ولاية المهدية,10806
+المطوية,ولاية قابس,10716
+حاجب العيون,ولاية القيروان,10621
+قعفور,ولاية سليانة,10399
+سيدي بوعلي,ولاية سوسة,10282
+وذرف,ولاية قابس,9932
+بوفيشة,ولاية سوسة,9931
+الماتلين,ولاية بنزرت,9904
+رفراف,ولاية بنزرت,9850
+الجريصة,ولاية الكاف,9807
+فوشانة,ولاية بن عروس,"قالب:9,733:formatnum"
+عين دراهم,ولاية جندوبة,9659
+غمراسن,ولاية تطاوين,9568
+السند,ولاية قفصة,9533
+الهوارية,ولاية نابل,9508
+تازركة,ولاية نابل,9388
+سيدي علي بن عون,ولاية سيدي بوزيد,9297
+حمام الأغزاز,ولاية نابل,9076
+الوسلاتية,ولاية القيروان,9006
+بني حسان,ولاية المنستير,8801
+خليدية,ولاية بن عروس,8470
+منزل كامل,ولاية المنستير,8432
+حفوز,ولاية القيروان,8429
+سيدي عامر,ولاية المنستير,8404
+بئر المشارقة,ولاية زغوان,8329
+قلعة سنان,ولاية الكاف,8145
+عميرة الحجاج,ولاية المنستير,8121
+المعمورة,ولاية نابل,8039
+السبيخة,ولاية القيروان,8036
+بئر الأحمر,ولاية تطاوين,7955
+القلعة,ولاية قبلي,7912
+دقاش,ولاية توزر,7893
+زاوية الجديدي,ولاية نابل,7862
+الكريب,ولاية سليانة,7841
+بو حجلة,ولاية القيروان,7828
+المعقولة,ولاية باجة,7809
+فوسانة,ولاية القصرين,7703
+الحنشة,ولاية صفاقس,7575
+الناظور,ولاية زغوان,7567
+مطماطة الجديدة,ولاية قابس,7526
+سيدي علوان,ولاية المهدية,7500
+كركر,ولاية المهدية,7467
+هرقلة,ولاية سوسة,7419
+البرادعة,ولاية المهدية,7404
+المزونة,ولاية سيدي بوزيد,7390
+نفزة,ولاية باجة,7302
+طوزة,ولاية المنستير,7236
+جمنة,ولاية قبلي,7194
+جبنيانة,ولاية صفاقس,7190
+منزل بوزيان,ولاية سيدي بوزيد,7113
+الصمعة,ولاية نابل,7017
+تلابت,ولاية القصرين,6932
+زاوية قنطش,ولاية المنستير,6713
+ملولش,ولاية المهدية,6704
+برج العامري,ولاية منوبة,6519
+سبيبة,ولاية القصرين,6504
+بئر الحفي,ولاية سيدي بوزيد,6475
+ماجل بلعباس,ولاية القصرين,6471
+البطان,ولاية منوبة,6453
+حامة الجريد,ولاية توزر,6439
+ساقية سيدي يوسف,ولاية الكاف,6335
+رمادة,ولاية تطاوين,6289
+عميرة التوازرة,ولاية المنستير,6261
+بوحجر,ولاية المنستير,6137
+سيدي بو سعيد,ولاية تونس,5911
+القصور,ولاية الكاف,5852
+جلمة,ولاية سيدي بوزيد,5821
+لمطة,ولاية المنستير,5790
+شربان,ولاية المهدية,5700
+سجنان,ولاية بنزرت,5645
+الزارات,ولاية قابس,5627
+السواسي,ولاية المهدية,5381
+غار الملح,ولاية بنزرت,5345
+جبل الوسط,ولاية زغوان,5325
+عميرة الفحول,ولاية المنستير,5255
+منزل حر,ولاية نابل,5243
+عمدون,ولاية باجة,5204
+عوسجة,ولاية بنزرت,5126
+أولاد الشامخ,ولاية المهدية,5120
+الغنادة,ولاية المنستير,5100
+أزمور,ولاية نابل,5054
+نصر الله,ولاية القيروان,5012
+السلوقية,ولاية باجة,قالب:5010:formatnum
+برقو,ولاية سليانة,4916
+بئر علي,ولاية صفاقس,4905
+المسدور,ولاية المنستير,4705
+الروحية,ولاية سليانة,4675
+دار علوش,ولاية نابل,4558
+سيدي بنور,ولاية المنستير,4520
+شراحيل,ولاية المنستير,4406
+جدليان,ولاية القصرين,4352
+بومرداس,ولاية المهدية,4338
+الذهيبة,ولاية تطاوين,4295
+الميدة,ولاية نابل,4155
+قبلاط,ولاية باجة,4128
+منزل المهيري,ولاية القيروان,3870
+فرنانة,ولاية جندوبة,3831
+كندار,ولاية سوسة,3804
+منزل فارسي,ولاية المنستير,3603
+قربص,ولاية نابل,3532
+حيدرة,ولاية القصرين,3451
+السبالة,ولاية سيدي بوزيد,3361
+نبر,ولاية الكاف,3299
+العلا,ولاية القيروان,3276
+سيدي بورويس,ولاية سليانة,3258
+الغريبة,ولاية صفاقس,3251
+هبيرة,ولاية المهدية,3248
+بني خداش,ولاية مدنين,2930
+الشبيكة,ولاية القيروان,2921
+العروسة,ولاية سليانة,2905
+سيدي الهاني,ولاية سوسة,2706
+كسرة,ولاية سليانة,2602
+القلعة الخصبة,ولاية الكاف,2558
+أولاد حفوز,ولاية سيدي بوزيد,2494
+وادي مليز,ولاية جندوبة,2388
+تمغزة,ولاية توزر,2334
+منزل شاكر,ولاية الكاف,2278
+طويرف,ولاية الكاف,2178
+مطماطة,ولاية قابس,1847
+منزل سالم,ولاية الكاف,1824
+عين جلولة,ولاية القيروان,1757
+الشراردة,ولاية القيروان,1705
+بني مطير,ولاية جندوبة,784
+الزهور,ولاية القصرين,na
+العيون,ولاية القصرين,na
+النور,ولاية القصرين,na
+حاسي الفريد,ولاية القصرين,na
+تيبار,ولاية باجة,na
+أوتيك,ولاية بنزرت,na
+جومين,ولاية بنزرت,na
+غزالة,ولاية بنزرت,na
+الصمار,ولاية تطاوين,na
+حزوة,ولاية توزر,na
+بلطة بوعوان,ولاية جندوبة,na
+صواف,ولاية زغوان,na
+السعيدة,ولاية سيدي بوزيد,na
+سوق الجديد,ولاية سيدي بوزيد,na
+العامرة,ولاية صفاقس,na
+منزل الحبيب,ولاية قابس,na
+الفوار,ولاية قبلي,na
+بلخير,ولاية قفصة,na
+سيدي عيش,ولاية قفصة,na
+سيدي مخلوف,ولاية مدنين,na
+المنيهلة,ولاية أريانة,na
+الأحواز - الأسودة,ولاية سيدي بوزيد,na
+بوشمة,ولاية قابس,na
+تبلبو,ولاية قابس,na
+جرجيس الشمالية,ولاية مدنين,na
+لالة,ولاية قفصة,na
+رجيم معتوق,ولاية قبلي,na
+نعسان,ولاية بن عروس,na
+البساتين,ولاية منوبة,na
+الحشاشنة,ولاية بنزرت,na
+فندق الجديد - سلتان,ولاية نابل,na
+تزغران - زاوية المقايز,ولاية نابل,na
+سيدي الجديدي,ولاية نابل,na
+بوشراي - الشريفات,ولاية نابل,na
+العمايم,ولاية زغوان,na
+وشتاتة - الجميلة,ولاية باجة,na
+سيدي اسماعيل,ولاية باجة,na
+الملقى - التطور,ولاية جندوبة,na
+القلعة - المعدن - فرقصان,ولاية جندوبة,na
+الجواودة,ولاية جندوبة,na
+عين الصبح - الناظور,ولاية جندوبة,na
+الخمايرية,ولاية جندوبة,na
+زعفرانة - دير الكاف,ولاية الكاف,na
+بهرة,ولاية الكاف,na
+المرجى,ولاية الكاف,na
+سيدي مرشد,ولاية سليانة,na
+الحبابسة,ولاية سليانة,na
+الشرايع - مشرق الشمس,ولاية القصرين,na
+الرخمات,ولاية القصرين,na
+عين الخمايسية,ولاية القصرين,na
+خمودة,ولاية القصرين,na
+بوزقام,ولاية القصرين,na
+بنور,ولاية سيدي بوزيد,na
+باطن الغزال,ولاية سيدي بوزيد,na
+رحال,ولاية سيدي بوزيد,na
+المنصورة,ولاية سيدي بوزيد,na
+سيسب - الدريعات,ولاية القيروان,na
+جهينة,ولاية القيروان,na
+رقادة,ولاية القيروان,na
+عبيدة,ولاية القيروان,na
+الشرائطية - القصور,ولاية القيروان,na
+العين البيضاء,ولاية القيروان,na
+شواشي,ولاية القيروان,na
+القريمات - هيشر,ولاية سوسة,na
+شط مريم,ولاية سوسة,na
+سيدي زيد - أولاد مولاهم,ولاية المهدية,na
+الحكائمة,ولاية المهدية,na
+تلالسة,ولاية المهدية,na
+زالبة,ولاية المهدية,na
+العوابد - الخزانات,ولاية صفاقس,na
+الناظور - سيدي علي بن عابد,ولاية صفاقس,na
+الحاجب,ولاية صفاقس,na
+حزق - اللوزة,ولاية صفاقس,na
+الأعشاش,ولاية صفاقس,na
+النصر,ولاية صفاقس,na
+سيدي بوبكر,ولاية قفصة,na
+زانوش,ولاية قفصة,na
+بشلي - الجرسين - البليدات,ولاية قبلي,na
+بشري - فطناسة,ولاية قبلي,na
+الحبيب ثامر - بوعطوش,ولاية قابس,na
+كتانة,ولاية قابس,na
+دخيلة توجان,ولاية قابس,na
+بوغرارة,ولاية مدنين,na
+شنني - دويرات,ولاية تطاوين,na
